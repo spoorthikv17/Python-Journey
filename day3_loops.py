@@ -13,6 +13,6 @@ for i in range( 1 ,50 ,2):  #if i start from 1 and increment by 2 then it will p
     print(i , end = " ")
 
 a = int(input("Enter a number to print its multiplication table: "))
-for i in range(1 , 11 , 1):
+for i in range(1 , 11):
     b = a * i
     print(a , "x" , i , "=" , b)

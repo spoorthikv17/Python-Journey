@@ -14,6 +14,3 @@ def add_sum(a,b):
 c = add_sum(50,20)
 print(c)
 
-def add_sum(a,b):
-    print(f"{a} + {b}")
-add_sum(20,20)
